@@ -28,3 +28,6 @@ En komplett relationsdatabas för en liten svensk bokhandel. Databasen hanterar 
 ## Totalsumma (medvetet denormaliserad)
 Kolumnerna Totalsumma lagras för prestanda och historik.
 I en produktionsmiljö sätter man värdet av applikationen eller en trigger.
+
+<img width="274" height="213" alt="ER-diagram" src="https://github.com/user-attachments/assets/2a64c1fb-ff99-4496-b223-7c2b7fdd4596" />
+
