@@ -1,4 +1,4 @@
-# Inlämning 1 – Databaser
+# Bokhandel YH25 – Databaser
 
 ## Översikt
 En komplett relationsdatabas för en liten svensk bokhandel. Databasen hanterar kunder, böcker, beställningar och orderrader med realistiska relationer och svenska tecken (åäö).
@@ -29,5 +29,6 @@ Kolumnerna Totalsumma lagras för prestanda och historik.
 I en produktionsmiljö sätter man värdet av applikationen eller en trigger.
 
 <img width="274" height="213" alt="ER-diagram" src="https://github.com/user-attachments/assets/2a64c1fb-ff99-4496-b223-7c2b7fdd4596" />
+
 
 
