@@ -1,6 +1,5 @@
-/*  Martin Hellström YH25
-	Inlämning 1 - Databaser
-    Fil: inlamning1.sql 
+/*  YH 25 bokhandel - databaser
+    Fil: bokhandel.sql 
     */
     
 -- Raderar gammal databas om den finns plus skapar ny ren databas varje gång
